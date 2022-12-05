@@ -1,4 +1,4 @@
-Prova da materia de estrutura de dados Ciências da computação N, anhanguera taquaral.
+Prova da materia de estrutura de dados do curso de Ciências da computação N, Anhanguera Taquaral.
 Aluno: Christian Matheus De Souza Moraes
 Linguagem: C
 
